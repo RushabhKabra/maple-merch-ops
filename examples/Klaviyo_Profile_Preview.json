@@ -1,0 +1,1765 @@
+{
+  "destination": "Local JSON preview only",
+  "endpoint_reference": "POST /api/profile-import",
+  "revision": "2026-10-15",
+  "payloads": [
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper001@example.com",
+          "first_name": "Demo 1",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper002@example.com",
+          "first_name": "Demo 2",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper003@example.com",
+          "first_name": "Demo 3",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper005@example.com",
+          "first_name": "Demo 5",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper006@example.com",
+          "first_name": "Demo 6",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper007@example.com",
+          "first_name": "Demo 7",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper009@example.com",
+          "first_name": "Demo 9",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper010@example.com",
+          "first_name": "Demo 10",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper011@example.com",
+          "first_name": "Demo 11",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper013@example.com",
+          "first_name": "Demo 13",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper014@example.com",
+          "first_name": "Demo 14",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper015@example.com",
+          "first_name": "Demo 15",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper017@example.com",
+          "first_name": "Demo 17",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper018@example.com",
+          "first_name": "Demo 18",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper019@example.com",
+          "first_name": "Demo 19",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper021@example.com",
+          "first_name": "Demo 21",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper022@example.com",
+          "first_name": "Demo 22",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper023@example.com",
+          "first_name": "Demo 23",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper025@example.com",
+          "first_name": "Demo 25",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper026@example.com",
+          "first_name": "Demo 26",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper027@example.com",
+          "first_name": "Demo 27",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper029@example.com",
+          "first_name": "Demo 29",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper030@example.com",
+          "first_name": "Demo 30",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper031@example.com",
+          "first_name": "Demo 31",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper033@example.com",
+          "first_name": "Demo 33",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper034@example.com",
+          "first_name": "Demo 34",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper035@example.com",
+          "first_name": "Demo 35",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper037@example.com",
+          "first_name": "Demo 37",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper038@example.com",
+          "first_name": "Demo 38",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper039@example.com",
+          "first_name": "Demo 39",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper041@example.com",
+          "first_name": "Demo 41",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper042@example.com",
+          "first_name": "Demo 42",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper043@example.com",
+          "first_name": "Demo 43",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper045@example.com",
+          "first_name": "Demo 45",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper046@example.com",
+          "first_name": "Demo 46",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper047@example.com",
+          "first_name": "Demo 47",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper049@example.com",
+          "first_name": "Demo 49",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper050@example.com",
+          "first_name": "Demo 50",
+          "properties": {
+            "portfolio_segment": "Welcome",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper051@example.com",
+          "first_name": "Demo 51",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper053@example.com",
+          "first_name": "Demo 53",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper054@example.com",
+          "first_name": "Demo 54",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper055@example.com",
+          "first_name": "Demo 55",
+          "properties": {
+            "portfolio_segment": "Win-back",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper057@example.com",
+          "first_name": "Demo 57",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper058@example.com",
+          "first_name": "Demo 58",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper059@example.com",
+          "first_name": "Demo 59",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper061@example.com",
+          "first_name": "Demo 61",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper062@example.com",
+          "first_name": "Demo 62",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper063@example.com",
+          "first_name": "Demo 63",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper065@example.com",
+          "first_name": "Demo 65",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper066@example.com",
+          "first_name": "Demo 66",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper067@example.com",
+          "first_name": "Demo 67",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper069@example.com",
+          "first_name": "Demo 69",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper070@example.com",
+          "first_name": "Demo 70",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper071@example.com",
+          "first_name": "Demo 71",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper073@example.com",
+          "first_name": "Demo 73",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper074@example.com",
+          "first_name": "Demo 74",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper075@example.com",
+          "first_name": "Demo 75",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper077@example.com",
+          "first_name": "Demo 77",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper078@example.com",
+          "first_name": "Demo 78",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper079@example.com",
+          "first_name": "Demo 79",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper081@example.com",
+          "first_name": "Demo 81",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper082@example.com",
+          "first_name": "Demo 82",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper083@example.com",
+          "first_name": "Demo 83",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper085@example.com",
+          "first_name": "Demo 85",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper086@example.com",
+          "first_name": "Demo 86",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper087@example.com",
+          "first_name": "Demo 87",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper089@example.com",
+          "first_name": "Demo 89",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper090@example.com",
+          "first_name": "Demo 90",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper091@example.com",
+          "first_name": "Demo 91",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper093@example.com",
+          "first_name": "Demo 93",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper094@example.com",
+          "first_name": "Demo 94",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper095@example.com",
+          "first_name": "Demo 95",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper097@example.com",
+          "first_name": "Demo 97",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper098@example.com",
+          "first_name": "Demo 98",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper099@example.com",
+          "first_name": "Demo 99",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper101@example.com",
+          "first_name": "Demo 101",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper102@example.com",
+          "first_name": "Demo 102",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper103@example.com",
+          "first_name": "Demo 103",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper105@example.com",
+          "first_name": "Demo 105",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper106@example.com",
+          "first_name": "Demo 106",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper107@example.com",
+          "first_name": "Demo 107",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper109@example.com",
+          "first_name": "Demo 109",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper110@example.com",
+          "first_name": "Demo 110",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper111@example.com",
+          "first_name": "Demo 111",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper113@example.com",
+          "first_name": "Demo 113",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper114@example.com",
+          "first_name": "Demo 114",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper115@example.com",
+          "first_name": "Demo 115",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper117@example.com",
+          "first_name": "Demo 117",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper118@example.com",
+          "first_name": "Demo 118",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper119@example.com",
+          "first_name": "Demo 119",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper121@example.com",
+          "first_name": "Demo 121",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper122@example.com",
+          "first_name": "Demo 122",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper123@example.com",
+          "first_name": "Demo 123",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper125@example.com",
+          "first_name": "Demo 125",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper126@example.com",
+          "first_name": "Demo 126",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper127@example.com",
+          "first_name": "Demo 127",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper129@example.com",
+          "first_name": "Demo 129",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper130@example.com",
+          "first_name": "Demo 130",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper131@example.com",
+          "first_name": "Demo 131",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper133@example.com",
+          "first_name": "Demo 133",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper134@example.com",
+          "first_name": "Demo 134",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper135@example.com",
+          "first_name": "Demo 135",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper137@example.com",
+          "first_name": "Demo 137",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper138@example.com",
+          "first_name": "Demo 138",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper139@example.com",
+          "first_name": "Demo 139",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper141@example.com",
+          "first_name": "Demo 141",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper142@example.com",
+          "first_name": "Demo 142",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper143@example.com",
+          "first_name": "Demo 143",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper145@example.com",
+          "first_name": "Demo 145",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper146@example.com",
+          "first_name": "Demo 146",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper147@example.com",
+          "first_name": "Demo 147",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper149@example.com",
+          "first_name": "Demo 149",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper150@example.com",
+          "first_name": "Demo 150",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper151@example.com",
+          "first_name": "Demo 151",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper153@example.com",
+          "first_name": "Demo 153",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper154@example.com",
+          "first_name": "Demo 154",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper155@example.com",
+          "first_name": "Demo 155",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper157@example.com",
+          "first_name": "Demo 157",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper158@example.com",
+          "first_name": "Demo 158",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper159@example.com",
+          "first_name": "Demo 159",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper161@example.com",
+          "first_name": "Demo 161",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper162@example.com",
+          "first_name": "Demo 162",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper163@example.com",
+          "first_name": "Demo 163",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper165@example.com",
+          "first_name": "Demo 165",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper166@example.com",
+          "first_name": "Demo 166",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper167@example.com",
+          "first_name": "Demo 167",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper169@example.com",
+          "first_name": "Demo 169",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper170@example.com",
+          "first_name": "Demo 170",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper171@example.com",
+          "first_name": "Demo 171",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper173@example.com",
+          "first_name": "Demo 173",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper174@example.com",
+          "first_name": "Demo 174",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper175@example.com",
+          "first_name": "Demo 175",
+          "properties": {
+            "portfolio_segment": "VIP",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper177@example.com",
+          "first_name": "Demo 177",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper178@example.com",
+          "first_name": "Demo 178",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "type": "profile",
+        "attributes": {
+          "email": "shopper179@example.com",
+          "first_name": "Demo 179",
+          "properties": {
+            "portfolio_segment": "Repeat",
+            "synthetic_demo": true
+          }
+        }
+      }
+    }
+  ],
+  "sends_email": false,
+  "subscribes_profiles": false,
+  "note": "Use example.com synthetic profiles for inspection only. Importing a profile is not subscribing it. Sending or subscribing is outside this project adapter."
+}

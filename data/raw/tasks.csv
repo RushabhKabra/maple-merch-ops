@@ -1,0 +1,8 @@
+id,launch_id,title,owner,due_date,status,depends_on
+T01,LCH-001,Confirm product data and prices,Category,2026-10-23,done,
+T02,LCH-001,Receive and log beanie sample,Planning & Inventory,2026-10-24,in_progress,
+T03,LCH-001,Complete photography and rights approval,Creative & Storytelling,2026-10-27,todo,T02
+T04,LCH-001,Review collection page and mobile checkout,E-Commerce,2026-10-29,todo,T03
+T05,LCH-001,Approve launch email preview,CRM,2026-10-29,todo,T04
+T06,LCH-002,Review gift pricing and promotion,Category,2026-11-02,in_progress,
+T07,LCH-002,Confirm gift inventory allocation,Planning & Inventory,2026-11-03,todo,

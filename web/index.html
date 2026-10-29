@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Maple Merch Ops — Retail workspace</title><link rel="icon" href="/assets/mark.svg" type="image/svg+xml"><link rel="stylesheet" href="/styles.css"><script defer src="/app.js"></script></head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<aside class="sidebar">
+  <a class="brand" href="/"><span class="mark">m<span>.</span></span><span>maple<span class="brand-sub">MERCH OPERATIONS</span></span></a>
+  <div class="workspace-tag"><span class="dot"></span> Portfolio workspace <span>01</span></div>
+  <p class="nav-label">WORKSPACE</p>
+  <nav aria-label="Workspace navigation">
+    <button data-view="overview" class="nav active"><span class="nav-icon">▥</span> Overview</button>
+    <button data-view="catalog" class="nav"><span class="nav-icon">▧</span> Product catalog <span class="nav-count" id="catalog-count">16</span></button>
+    <button data-view="inventory" class="nav"><span class="nav-icon">▤</span> Inventory & orders</button>
+    <button data-view="launches" class="nav"><span class="nav-icon">↗</span> Launch calendar</button>
+    <button data-view="assets" class="nav"><span class="nav-icon">▨</span> Creative assets</button>
+    <button data-view="crm" class="nav"><span class="nav-icon">◎</span> Customer & CRM</button>
+    <button data-view="reports" class="nav"><span class="nav-icon">▦</span> Reports & handoff</button>
+  </nav>
+  <div class="sidebar-footer"><a class="shop-link" href="/shop" target="_blank" rel="noopener">Open demo shop <span>↗</span></a><div class="profile"><span class="avatar">RK</span><div>Rushabh Kabra<small>Portfolio project</small></div></div></div>
+</aside>
+<div class="workspace">
+  <header class="topbar"><span>Retail operations <span class="crumb">/</span> <span id="breadcrumb">Overview</span></span><div><span class="demo-pill"><span class="dot"></span> SYNTHETIC DEMO</span><span class="clock" id="as-of"></span></div></header>
+  <main id="main" tabindex="-1">
+    <section class="page-heading"><div><div class="eyebrow">MAPLE MERCH OPERATIONS</div><h1 id="page-title">Retail performance</h1><p id="page-description">A clear view of sales, launches, and the work that needs you.</p></div><a class="button primary" id="header-export" href="/api/brief.md">Download review <span>↓</span></a></section>
+    <div id="loading" class="loading">Loading your retail workspace…</div>
+    <div id="content" hidden></div>
+  </main>
+  <footer class="page-footer"><span>Independent portfolio project. All orders and customer profiles are synthetic.</span><span>No affiliation with Tim Hortons or RBI.</span></footer>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+<dialog id="modal"><form id="modal-form"><div class="modal-heading"><h2 id="modal-title"></h2><button class="icon-button" type="button" id="modal-close" aria-label="Close dialog">×</button></div><div id="modal-fields"></div><p id="modal-error" class="error" role="alert"></p><div class="modal-actions"><button type="button" class="button" id="modal-cancel">Cancel</button><button type="submit" class="button primary" id="modal-save">Save changes</button></div></form></dialog>
+</body></html>

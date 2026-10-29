@@ -1,0 +1,1540 @@
+Date,Order ID,Channel,SKU,Product,Category,Quantity,Returned,Unit price,Discount,Unit cost
+2026-08-28,MM-1005,Paid Social,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-08-28,MM-1005,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-28,MM-1005,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-08-28,MM-1002,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-08-28,MM-1009,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-08-28,MM-1010,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-08-28,MM-1016,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-28,MM-1016,Organic Search,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-08-28,MM-1008,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-28,MM-1008,Paid Social,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-08-28,MM-1008,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-08-28,MM-1007,Organic Search,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-08-28,MM-1007,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-08-28,MM-1007,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-08-28,MM-1014,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-08-28,MM-1011,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-08-28,MM-1012,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-08-28,MM-1012,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-08-28,MM-1015,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-28,MM-1018,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-08-28,MM-1006,Email,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,7.48,9.0
+2026-08-28,MM-1001,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-08-28,MM-1003,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-08-28,MM-1013,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-08-28,MM-1017,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-08-28,MM-1017,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-08-29,MM-1021,Email,APP-001,Everyday crewneck,Apparel,2,0,54.95,10.99,22.0
+2026-08-29,MM-1028,Paid Social,BOT-001,Trail water bottle,Drinkware,3,0,34.95,0.0,13.5
+2026-08-29,MM-1029,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-08-29,MM-1033,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-08-29,MM-1033,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-08-29,MM-1033,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-08-29,MM-1019,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-08-29,MM-1023,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-08-29,MM-1026,Email,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,4.59,8.5
+2026-08-29,MM-1035,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-29,MM-1022,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-08-29,MM-1034,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-08-29,MM-1020,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-08-29,MM-1031,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-08-29,MM-1031,Organic Search,APP-001,Everyday crewneck,Apparel,2,0,54.95,10.99,22.0
+2026-08-29,MM-1031,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-08-29,MM-1036,Organic Search,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,0.0,12.0
+2026-08-29,MM-1024,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-08-29,MM-1027,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-08-29,MM-1030,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-08-29,MM-1038,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-08-29,MM-1025,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-08-29,MM-1032,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-08-29,MM-1037,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-08-30,MM-1046,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,1,18.95,0.0,6.5
+2026-08-30,MM-1046,Direct,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,0.0,32.0
+2026-08-30,MM-1050,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-08-30,MM-1050,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-08-30,MM-1055,Email,APP-002,Weekend hoodie,Apparel,2,0,69.95,13.99,28.0
+2026-08-30,MM-1040,Email,GFT-002,Cozy weekend gift box,Gifts,1,1,79.95,7.99,32.0
+2026-08-30,MM-1040,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-08-30,MM-1040,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-08-30,MM-1052,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-08-30,MM-1052,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-08-30,MM-1052,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-08-30,MM-1056,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-08-30,MM-1039,Organic Search,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-08-30,MM-1039,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-08-30,MM-1041,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-30,MM-1041,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-08-30,MM-1054,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-08-30,MM-1047,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-30,MM-1047,Organic Search,BOT-001,Trail water bottle,Drinkware,3,0,34.95,0.0,13.5
+2026-08-30,MM-1048,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-08-30,MM-1048,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-08-30,MM-1049,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-08-30,MM-1051,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-08-30,MM-1044,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-08-30,MM-1044,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-08-30,MM-1044,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-08-30,MM-1043,Direct,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-08-30,MM-1057,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-08-30,MM-1057,Organic Search,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-08-30,MM-1053,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-08-31,MM-1069,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-08-31,MM-1069,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-08-31,MM-1067,Paid Social,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-08-31,MM-1070,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-08-31,MM-1072,Organic Search,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-08-31,MM-1063,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-08-31,MM-1077,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-08-31,MM-1058,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-08-31,MM-1058,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-08-31,MM-1059,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-08-31,MM-1059,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-08-31,MM-1059,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-08-31,MM-1080,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-08-31,MM-1079,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-08-31,MM-1079,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-08-31,MM-1062,Direct,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-08-31,MM-1068,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-08-31,MM-1065,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-08-31,MM-1076,Email,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,11.99,24.0
+2026-08-31,MM-1074,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-08-31,MM-1074,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-08-31,MM-1075,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-08-31,MM-1078,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-08-31,MM-1060,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-08-31,MM-1071,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-08-31,MM-1073,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-08-31,MM-1073,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-08-31,MM-1061,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-08-31,MM-1066,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-01,MM-1085,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-01,MM-1085,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-01,MM-1089,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-01,MM-1098,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-01,MM-1095,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-01,MM-1081,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-01,MM-1081,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-01,MM-1084,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-01,MM-1088,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-01,MM-1088,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-01,MM-1090,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-01,MM-1091,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-01,MM-1091,Direct,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-09-01,MM-1091,Direct,BOT-001,Trail water bottle,Drinkware,1,1,34.95,0.0,13.5
+2026-09-01,MM-1087,Paid Social,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-09-01,MM-1086,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-01,MM-1083,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,1,18.95,0.0,6.5
+2026-09-01,MM-1082,Email,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,3.79,6.5
+2026-09-01,MM-1092,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-01,MM-1094,Email,APP-002,Weekend hoodie,Apparel,1,1,69.95,6.99,28.0
+2026-09-01,MM-1096,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-01,MM-1097,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-01,MM-1097,Paid Social,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-09-02,MM-1101,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-02,MM-1107,Organic Search,MUG-002,Campfire enamel mug,Drinkware,3,0,22.95,0.0,8.5
+2026-09-02,MM-1107,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-02,MM-1119,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-02,MM-1108,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-09-02,MM-1110,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-02,MM-1110,Paid Social,HAT-001,Classic canvas cap,Accessories,1,1,24.95,0.0,8.5
+2026-09-02,MM-1116,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-02,MM-1116,Organic Search,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,6.59,12.0
+2026-09-02,MM-1118,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-02,MM-1100,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-02,MM-1100,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-02,MM-1113,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-02,MM-1114,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-02,MM-1114,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-02,MM-1121,Email,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,4.99,9.0
+2026-09-02,MM-1112,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-02,MM-1117,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-02,MM-1117,Direct,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-09-02,MM-1117,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-02,MM-1109,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-02,MM-1115,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-02,MM-1106,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-02,MM-1102,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-02,MM-1104,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-02,MM-1104,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-02,MM-1099,Organic Search,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-09-02,MM-1105,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-03,MM-1131,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-03,MM-1128,Paid Social,BOT-001,Trail water bottle,Drinkware,1,1,34.95,0.0,13.5
+2026-09-03,MM-1128,Paid Social,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-09-03,MM-1135,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-03,MM-1122,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-03,MM-1122,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-03,MM-1124,Organic Search,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-03,MM-1124,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-03,MM-1132,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-03,MM-1140,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-03,MM-1123,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-03,MM-1123,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-03,MM-1129,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-03,MM-1130,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-03,MM-1133,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-09-03,MM-1133,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-03,MM-1125,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-03,MM-1139,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-03,MM-1139,Organic Search,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-09-03,MM-1143,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-03,MM-1126,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-03,MM-1134,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-03,MM-1134,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-03,MM-1136,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-03,MM-1138,Paid Social,APP-001,Everyday crewneck,Apparel,3,0,54.95,0.0,22.0
+2026-09-03,MM-1141,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-03,MM-1142,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-03,MM-1142,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-03,MM-1127,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-04,MM-1154,Direct,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-09-04,MM-1154,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-04,MM-1164,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-04,MM-1164,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-04,MM-1166,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-04,MM-1144,Organic Search,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-09-04,MM-1145,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-04,MM-1159,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-09-04,MM-1161,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-04,MM-1162,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-04,MM-1162,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-04,MM-1150,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-04,MM-1150,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-04,MM-1146,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-04,MM-1160,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-04,MM-1160,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-04,MM-1163,Paid Social,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-09-04,MM-1165,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-04,MM-1165,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-04,MM-1149,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-04,MM-1148,Email,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,4.99,9.0
+2026-09-04,MM-1147,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-04,MM-1147,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-04,MM-1155,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-04,MM-1156,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-04,MM-1151,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-09-04,MM-1153,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-04,MM-1157,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-05,MM-1179,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-05,MM-1169,Email,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,15.99,32.0
+2026-09-05,MM-1167,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-05,MM-1186,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-09-05,MM-1174,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-05,MM-1178,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-05,MM-1178,Direct,BOT-001,Trail water bottle,Drinkware,1,1,34.95,0.0,13.5
+2026-09-05,MM-1183,Organic Search,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-09-05,MM-1184,Email,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,11.99,24.0
+2026-09-05,MM-1188,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-05,MM-1168,Paid Social,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-09-05,MM-1175,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-05,MM-1185,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-05,MM-1170,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-09-05,MM-1170,Paid Social,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-09-05,MM-1181,Organic Search,TOTE-001,Market canvas tote,Accessories,1,1,19.95,0.0,6.0
+2026-09-05,MM-1176,Email,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-09-05,MM-1182,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-05,MM-1172,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-05,MM-1172,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-05,MM-1173,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-05,MM-1171,Email,TOTE-001,Market canvas tote,Accessories,3,1,19.95,5.98,6.0
+2026-09-05,MM-1177,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-05,MM-1177,Paid Social,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-09-05,MM-1180,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-05,MM-1180,Paid Social,BOT-001,Trail water bottle,Drinkware,3,0,34.95,0.0,13.5
+2026-09-06,MM-1190,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-06,MM-1209,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-06,MM-1200,Paid Social,MUG-002,Campfire enamel mug,Drinkware,3,0,22.95,6.88,8.5
+2026-09-06,MM-1200,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-06,MM-1200,Paid Social,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-09-06,MM-1189,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-06,MM-1195,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-06,MM-1195,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-06,MM-1205,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-06,MM-1196,Organic Search,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-09-06,MM-1196,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-09-06,MM-1193,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-06,MM-1193,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-06,MM-1208,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-06,MM-1208,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-06,MM-1208,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-06,MM-1191,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,1,79.95,0.0,32.0
+2026-09-06,MM-1202,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-06,MM-1203,Email,TUM-002,Cold brew glass cup,Drinkware,1,1,24.95,2.49,9.0
+2026-09-06,MM-1194,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-06,MM-1199,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-06,MM-1207,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-06,MM-1207,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-06,MM-1207,Email,HAT-001,Classic canvas cap,Accessories,3,0,24.95,7.48,8.5
+2026-09-06,MM-1201,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-06,MM-1204,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-06,MM-1197,Email,BOT-001,Trail water bottle,Drinkware,2,1,34.95,6.99,13.5
+2026-09-06,MM-1211,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-09-06,MM-1211,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-06,MM-1198,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-06,MM-1198,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-06,MM-1206,Paid Social,MUG-002,Campfire enamel mug,Drinkware,3,0,22.95,0.0,8.5
+2026-09-06,MM-1206,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-06,MM-1210,Direct,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,23.98,32.0
+2026-09-07,MM-1220,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-09-07,MM-1214,Organic Search,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-09-07,MM-1216,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-07,MM-1213,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-09-07,MM-1213,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-07,MM-1213,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-07,MM-1212,Paid Social,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-09-07,MM-1218,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-07,MM-1219,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-07,MM-1219,Direct,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-07,MM-1215,Direct,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-09-07,MM-1215,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-07,MM-1217,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-07,MM-1217,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-07,MM-1221,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-09-07,MM-1222,Direct,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-09-08,MM-1232,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-08,MM-1228,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-08,MM-1228,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-08,MM-1223,Email,HAT-001,Classic canvas cap,Accessories,3,0,24.95,7.48,8.5
+2026-09-08,MM-1226,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-08,MM-1226,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-08,MM-1224,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-08,MM-1225,Paid Social,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-08,MM-1230,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-08,MM-1231,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-08,MM-1231,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-08,MM-1231,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-08,MM-1227,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-08,MM-1227,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-09-09,MM-1241,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-09,MM-1246,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-09,MM-1252,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-09,MM-1234,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-09,MM-1234,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-09,MM-1236,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-09,MM-1237,Paid Social,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-09-09,MM-1238,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-09,MM-1238,Organic Search,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-09-09,MM-1242,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-09,MM-1245,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-09,MM-1245,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-09,MM-1240,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-09,MM-1248,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-09,MM-1233,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-09,MM-1244,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-09-09,MM-1244,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-09,MM-1244,Organic Search,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-09-09,MM-1235,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-09-09,MM-1243,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-09,MM-1250,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-09,MM-1239,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-09,MM-1247,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-09,MM-1251,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-09,MM-1251,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-10,MM-1253,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-10,MM-1267,Organic Search,APP-001,Everyday crewneck,Apparel,3,0,54.95,0.0,22.0
+2026-09-10,MM-1257,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-10,MM-1257,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-10,MM-1257,Email,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,15.99,32.0
+2026-09-10,MM-1254,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,3,0,18.95,0.0,6.5
+2026-09-10,MM-1254,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-10,MM-1254,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-10,MM-1268,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-10,MM-1268,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-10,MM-1268,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-10,MM-1256,Paid Social,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-09-10,MM-1259,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-10,MM-1264,Direct,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-09-10,MM-1265,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-10,MM-1261,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-10,MM-1261,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-10,MM-1263,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-10,MM-1258,Organic Search,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-09-10,MM-1258,Organic Search,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-09-10,MM-1260,Paid Social,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-09-10,MM-1260,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-10,MM-1255,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-10,MM-1262,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-10,MM-1262,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-10,MM-1266,Direct,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-11,MM-1271,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-11,MM-1271,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-11,MM-1271,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-11,MM-1276,Paid Social,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-09-11,MM-1275,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-11,MM-1274,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-11,MM-1278,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-11,MM-1269,Direct,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-11,MM-1269,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-11,MM-1269,Direct,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-09-11,MM-1277,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-11,MM-1277,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-11,MM-1280,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-11,MM-1273,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-11,MM-1279,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-12,MM-1286,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-12,MM-1290,Organic Search,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,0.0,24.0
+2026-09-12,MM-1285,Paid Social,BOT-001,Trail water bottle,Drinkware,3,0,34.95,0.0,13.5
+2026-09-12,MM-1285,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-12,MM-1285,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-12,MM-1288,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-12,MM-1288,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-12,MM-1281,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-12,MM-1284,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-12,MM-1284,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-12,MM-1284,Organic Search,APP-001,Everyday crewneck,Apparel,3,0,54.95,16.48,22.0
+2026-09-12,MM-1289,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-12,MM-1283,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-12,MM-1283,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-12,MM-1283,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-12,MM-1291,Email,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,1.99,2.5
+2026-09-12,MM-1291,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-12,MM-1287,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-13,MM-1298,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-13,MM-1293,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-13,MM-1293,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-13,MM-1302,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-09-13,MM-1305,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-09-13,MM-1294,Paid Social,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-09-13,MM-1292,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-13,MM-1304,Organic Search,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-09-13,MM-1304,Organic Search,GFT-001,Morning ritual gift set,Gifts,3,1,59.95,0.0,24.0
+2026-09-13,MM-1299,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-13,MM-1299,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-13,MM-1300,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-13,MM-1301,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-13,MM-1301,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-13,MM-1295,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-13,MM-1303,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-13,MM-1296,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-13,MM-1297,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-13,MM-1306,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-14,MM-1315,Paid Social,HAT-001,Classic canvas cap,Accessories,1,1,24.95,0.0,8.5
+2026-09-14,MM-1317,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-14,MM-1317,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-14,MM-1316,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-14,MM-1308,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-14,MM-1308,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-14,MM-1308,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-14,MM-1309,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-14,MM-1312,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-14,MM-1320,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-14,MM-1311,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-14,MM-1322,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-14,MM-1307,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-14,MM-1319,Paid Social,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-09-14,MM-1319,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-14,MM-1319,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-14,MM-1313,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-14,MM-1313,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-14,MM-1313,Direct,MUG-001,Everyday ceramic mug,Drinkware,2,1,18.95,0.0,6.5
+2026-09-14,MM-1318,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-14,MM-1314,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,1,79.95,0.0,32.0
+2026-09-14,MM-1310,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-14,MM-1321,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-15,MM-1323,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-15,MM-1338,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-15,MM-1325,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-09-15,MM-1325,Email,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,7.48,9.0
+2026-09-15,MM-1325,Email,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-09-15,MM-1328,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-15,MM-1335,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-09-15,MM-1335,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-15,MM-1342,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-15,MM-1342,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-15,MM-1342,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-15,MM-1330,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-15,MM-1344,Email,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,4.59,8.5
+2026-09-15,MM-1327,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,1,24.95,0.0,9.0
+2026-09-15,MM-1332,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-15,MM-1343,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-15,MM-1326,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-15,MM-1329,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-15,MM-1329,Direct,TOTE-001,Market canvas tote,Accessories,3,1,19.95,0.0,6.0
+2026-09-15,MM-1336,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-15,MM-1336,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-15,MM-1334,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-15,MM-1340,Email,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,6.59,12.0
+2026-09-15,MM-1324,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-15,MM-1331,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-15,MM-1331,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-15,MM-1337,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-15,MM-1337,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-15,MM-1333,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-15,MM-1333,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-15,MM-1341,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-16,MM-1348,Email,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-09-16,MM-1348,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-16,MM-1354,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-16,MM-1354,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-16,MM-1355,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-16,MM-1351,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-16,MM-1351,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-16,MM-1351,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-16,MM-1350,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-16,MM-1352,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-16,MM-1356,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-16,MM-1357,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-16,MM-1357,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-16,MM-1349,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-16,MM-1349,Email,APP-001,Everyday crewneck,Apparel,2,0,54.95,10.99,22.0
+2026-09-16,MM-1358,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-16,MM-1358,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-16,MM-1345,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-16,MM-1345,Organic Search,APP-001,Everyday crewneck,Apparel,3,0,54.95,0.0,22.0
+2026-09-16,MM-1346,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-16,MM-1347,Email,KEY-001,Maple keyring,Accessories,3,0,12.95,3.88,3.5
+2026-09-16,MM-1353,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-17,MM-1374,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-17,MM-1367,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-17,MM-1366,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-17,MM-1366,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-17,MM-1379,Email,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,4.59,8.5
+2026-09-17,MM-1360,Organic Search,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-09-17,MM-1360,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-09-17,MM-1361,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-17,MM-1370,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-17,MM-1380,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-09-17,MM-1362,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-17,MM-1363,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-09-17,MM-1373,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-17,MM-1376,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-17,MM-1376,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-17,MM-1364,Email,APP-002,Weekend hoodie,Apparel,2,0,69.95,13.99,28.0
+2026-09-17,MM-1364,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-09-17,MM-1369,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-17,MM-1369,Organic Search,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-09-17,MM-1378,Email,BOT-001,Trail water bottle,Drinkware,1,1,34.95,3.49,13.5
+2026-09-17,MM-1378,Email,APP-002,Weekend hoodie,Apparel,1,1,69.95,6.99,28.0
+2026-09-17,MM-1372,Email,APP-001,Everyday crewneck,Apparel,3,0,54.95,16.48,22.0
+2026-09-17,MM-1372,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-09-17,MM-1375,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-17,MM-1368,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-17,MM-1365,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-17,MM-1365,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-17,MM-1371,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-17,MM-1371,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-17,MM-1377,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-18,MM-1381,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-18,MM-1391,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-18,MM-1393,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-18,MM-1384,Paid Social,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-09-18,MM-1384,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-18,MM-1394,Direct,MUG-002,Campfire enamel mug,Drinkware,1,1,22.95,0.0,8.5
+2026-09-18,MM-1397,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-18,MM-1397,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-18,MM-1386,Email,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,4.59,8.5
+2026-09-18,MM-1392,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-18,MM-1392,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-18,MM-1396,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-18,MM-1396,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-18,MM-1385,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-18,MM-1383,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-18,MM-1383,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-18,MM-1390,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-18,MM-1390,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-18,MM-1388,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-18,MM-1382,Paid Social,MUG-002,Campfire enamel mug,Drinkware,3,0,22.95,0.0,8.5
+2026-09-18,MM-1387,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-18,MM-1387,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-18,MM-1387,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-18,MM-1389,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-18,MM-1389,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-18,MM-1395,Email,MUG-001,Everyday ceramic mug,Drinkware,3,0,18.95,5.68,6.5
+2026-09-19,MM-1404,Email,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,1.99,2.5
+2026-09-19,MM-1406,Direct,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-09-19,MM-1407,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-19,MM-1400,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-19,MM-1398,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-19,MM-1398,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-19,MM-1403,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-09-19,MM-1412,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-19,MM-1412,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-09-19,MM-1405,Direct,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-09-19,MM-1405,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-19,MM-1417,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-19,MM-1411,Email,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-09-19,MM-1416,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-19,MM-1399,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-19,MM-1408,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-19,MM-1413,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-19,MM-1413,Paid Social,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-09-19,MM-1409,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-19,MM-1415,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-19,MM-1418,Direct,APP-002,Weekend hoodie,Apparel,2,0,69.95,13.99,28.0
+2026-09-19,MM-1402,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-19,MM-1402,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-19,MM-1410,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-09-19,MM-1414,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-19,MM-1414,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-19,MM-1414,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-20,MM-1424,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-20,MM-1427,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,1,22.95,0.0,8.5
+2026-09-20,MM-1422,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-20,MM-1429,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-20,MM-1421,Email,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,2.98,2.5
+2026-09-20,MM-1421,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-20,MM-1421,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-20,MM-1425,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-20,MM-1430,Email,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,23.98,32.0
+2026-09-20,MM-1430,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-20,MM-1430,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-20,MM-1432,Direct,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,0.0,32.0
+2026-09-20,MM-1432,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-20,MM-1419,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-20,MM-1431,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-20,MM-1435,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-20,MM-1433,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-20,MM-1433,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-20,MM-1436,Direct,TUM-002,Cold brew glass cup,Drinkware,2,1,24.95,0.0,9.0
+2026-09-20,MM-1426,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-20,MM-1426,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-20,MM-1426,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-20,MM-1428,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-20,MM-1434,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-20,MM-1437,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-20,MM-1420,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-09-20,MM-1420,Organic Search,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-09-21,MM-1441,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-21,MM-1442,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-21,MM-1450,Organic Search,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-09-21,MM-1449,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,1,32.95,0.0,12.0
+2026-09-21,MM-1455,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-21,MM-1455,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-21,MM-1455,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-21,MM-1456,Paid Social,APP-001,Everyday crewneck,Apparel,3,0,54.95,0.0,22.0
+2026-09-21,MM-1456,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-21,MM-1446,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-21,MM-1446,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-09-21,MM-1446,Organic Search,TOTE-001,Market canvas tote,Accessories,3,0,19.95,0.0,6.0
+2026-09-21,MM-1451,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-21,MM-1460,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-21,MM-1440,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-21,MM-1459,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,1,22.95,0.0,8.5
+2026-09-21,MM-1443,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-21,MM-1444,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-21,MM-1444,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-21,MM-1454,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-21,MM-1454,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-21,MM-1458,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-21,MM-1439,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-21,MM-1447,Email,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-09-21,MM-1448,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-21,MM-1438,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-21,MM-1453,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-21,MM-1452,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-21,MM-1457,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-21,MM-1457,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-22,MM-1470,Paid Social,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,0.0,32.0
+2026-09-22,MM-1468,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-22,MM-1463,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-22,MM-1471,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,1,79.95,0.0,32.0
+2026-09-22,MM-1471,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-22,MM-1474,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-22,MM-1464,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-22,MM-1464,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-22,MM-1464,Organic Search,APP-002,Weekend hoodie,Apparel,1,1,69.95,0.0,28.0
+2026-09-22,MM-1462,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-22,MM-1462,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-22,MM-1462,Paid Social,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-09-22,MM-1465,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-22,MM-1466,Email,APP-003,Coffee club tee,Apparel,1,1,29.95,2.99,10.0
+2026-09-22,MM-1473,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-22,MM-1473,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-22,MM-1469,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-22,MM-1472,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-22,MM-1461,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-22,MM-1461,Direct,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-09-22,MM-1467,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-22,MM-1467,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-23,MM-1483,Email,MUG-001,Everyday ceramic mug,Drinkware,3,0,18.95,5.68,6.5
+2026-09-23,MM-1482,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-23,MM-1486,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-23,MM-1487,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-23,MM-1475,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-23,MM-1480,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-23,MM-1480,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-09-23,MM-1478,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-23,MM-1484,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-09-23,MM-1477,Organic Search,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-09-23,MM-1479,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-23,MM-1479,Organic Search,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-09-23,MM-1479,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-23,MM-1476,Direct,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,0.0,12.0
+2026-09-23,MM-1481,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-23,MM-1481,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-23,MM-1485,Direct,GFT-001,Morning ritual gift set,Gifts,3,1,59.95,0.0,24.0
+2026-09-24,MM-1489,Paid Social,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-09-24,MM-1489,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-24,MM-1489,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-24,MM-1494,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-24,MM-1498,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-24,MM-1498,Direct,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-24,MM-1488,Direct,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-09-24,MM-1496,Organic Search,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,0.0,32.0
+2026-09-24,MM-1490,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-24,MM-1492,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-24,MM-1492,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-24,MM-1492,Organic Search,MUG-002,Campfire enamel mug,Drinkware,3,1,22.95,0.0,8.5
+2026-09-24,MM-1495,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-24,MM-1499,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-09-24,MM-1501,Organic Search,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-09-24,MM-1501,Organic Search,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-09-24,MM-1501,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-24,MM-1493,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-09-24,MM-1493,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-24,MM-1493,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-24,MM-1500,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-24,MM-1500,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-24,MM-1491,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-25,MM-1502,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-25,MM-1508,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-25,MM-1503,Organic Search,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-09-25,MM-1503,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-25,MM-1512,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-25,MM-1505,Paid Social,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-09-25,MM-1505,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-25,MM-1511,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-25,MM-1511,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-25,MM-1506,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-25,MM-1514,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-25,MM-1507,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,15.99,32.0
+2026-09-25,MM-1507,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-09-25,MM-1509,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-25,MM-1504,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-25,MM-1510,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-25,MM-1513,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-25,MM-1513,Paid Social,BOT-001,Trail water bottle,Drinkware,3,0,34.95,0.0,13.5
+2026-09-26,MM-1521,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-26,MM-1521,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-26,MM-1521,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-26,MM-1524,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-26,MM-1526,Email,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,17.98,24.0
+2026-09-26,MM-1526,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-26,MM-1526,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-26,MM-1532,Email,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-09-26,MM-1532,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-09-26,MM-1517,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-26,MM-1517,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-26,MM-1520,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-26,MM-1520,Organic Search,HAT-001,Classic canvas cap,Accessories,1,1,24.95,2.49,8.5
+2026-09-26,MM-1523,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-26,MM-1523,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-26,MM-1523,Paid Social,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-09-26,MM-1527,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-26,MM-1528,Organic Search,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-09-26,MM-1518,Organic Search,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-09-26,MM-1518,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-26,MM-1518,Organic Search,TOTE-001,Market canvas tote,Accessories,3,0,19.95,0.0,6.0
+2026-09-26,MM-1522,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-26,MM-1522,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-26,MM-1530,Organic Search,HAT-001,Classic canvas cap,Accessories,1,1,24.95,0.0,8.5
+2026-09-26,MM-1530,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-26,MM-1531,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-26,MM-1515,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-26,MM-1515,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-26,MM-1515,Paid Social,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,1.99,2.5
+2026-09-26,MM-1516,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-26,MM-1525,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-26,MM-1525,Direct,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-26,MM-1529,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-26,MM-1529,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-26,MM-1529,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-27,MM-1550,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-27,MM-1537,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-27,MM-1537,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-27,MM-1547,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-27,MM-1549,Email,BOT-001,Trail water bottle,Drinkware,2,0,34.95,6.99,13.5
+2026-09-27,MM-1544,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-27,MM-1545,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-27,MM-1545,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-27,MM-1534,Direct,APP-001,Everyday crewneck,Apparel,1,1,54.95,0.0,22.0
+2026-09-27,MM-1542,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-09-27,MM-1542,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-27,MM-1543,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-27,MM-1543,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-27,MM-1533,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-27,MM-1533,Organic Search,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-09-27,MM-1533,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-27,MM-1539,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-27,MM-1539,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-27,MM-1546,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-27,MM-1552,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-27,MM-1541,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-09-27,MM-1548,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-27,MM-1551,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-27,MM-1536,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-27,MM-1538,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-27,MM-1538,Organic Search,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-09-27,MM-1535,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-09-27,MM-1540,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-28,MM-1553,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-28,MM-1562,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-28,MM-1561,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-09-28,MM-1561,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-28,MM-1563,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-28,MM-1563,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-28,MM-1564,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-28,MM-1564,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-28,MM-1565,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-28,MM-1560,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-09-28,MM-1560,Organic Search,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-09-28,MM-1557,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-28,MM-1557,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-28,MM-1559,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-28,MM-1558,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-28,MM-1554,Email,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,15.99,32.0
+2026-09-28,MM-1554,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-09-28,MM-1554,Email,BOT-001,Trail water bottle,Drinkware,2,0,34.95,6.99,13.5
+2026-09-28,MM-1555,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-09-28,MM-1556,Direct,MUG-002,Campfire enamel mug,Drinkware,1,1,22.95,0.0,8.5
+2026-09-28,MM-1566,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-29,MM-1570,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-29,MM-1569,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-29,MM-1575,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-29,MM-1575,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-09-29,MM-1582,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-29,MM-1582,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-29,MM-1574,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-29,MM-1580,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-29,MM-1567,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-09-29,MM-1577,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-29,MM-1577,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-29,MM-1577,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-09-29,MM-1579,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-29,MM-1579,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-09-29,MM-1585,Paid Social,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-09-29,MM-1573,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-09-29,MM-1571,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-09-29,MM-1571,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-29,MM-1583,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-09-29,MM-1583,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-29,MM-1568,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-09-29,MM-1568,Email,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-09-29,MM-1578,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-09-29,MM-1584,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-09-29,MM-1584,Organic Search,BOT-001,Trail water bottle,Drinkware,3,0,34.95,0.0,13.5
+2026-09-29,MM-1576,Email,HAT-001,Classic canvas cap,Accessories,1,1,24.95,2.49,8.5
+2026-09-29,MM-1576,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-29,MM-1581,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-09-30,MM-1593,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-30,MM-1592,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-09-30,MM-1601,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-09-30,MM-1601,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-30,MM-1601,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-30,MM-1605,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-09-30,MM-1605,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-30,MM-1599,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-09-30,MM-1599,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-30,MM-1587,Paid Social,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-09-30,MM-1597,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-30,MM-1597,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-09-30,MM-1594,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-09-30,MM-1594,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-30,MM-1606,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-09-30,MM-1607,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-09-30,MM-1602,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-09-30,MM-1602,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-09-30,MM-1602,Email,BOT-001,Trail water bottle,Drinkware,3,0,34.95,10.48,13.5
+2026-09-30,MM-1589,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-09-30,MM-1603,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-09-30,MM-1603,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-09-30,MM-1596,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-09-30,MM-1600,Email,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,11.99,24.0
+2026-09-30,MM-1586,Paid Social,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-09-30,MM-1586,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-09-30,MM-1588,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-09-30,MM-1590,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-09-30,MM-1590,Email,TOTE-001,Market canvas tote,Accessories,3,0,19.95,5.98,6.0
+2026-09-30,MM-1591,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-30,MM-1595,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-09-30,MM-1595,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-01,MM-1621,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-10-01,MM-1610,Organic Search,APP-001,Everyday crewneck,Apparel,1,1,54.95,0.0,22.0
+2026-10-01,MM-1610,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-01,MM-1610,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-01,MM-1611,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-01,MM-1613,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-01,MM-1613,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-01,MM-1613,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-10-01,MM-1619,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-01,MM-1624,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-01,MM-1624,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-01,MM-1608,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-01,MM-1614,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-01,MM-1620,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-01,MM-1620,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-01,MM-1623,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-01,MM-1623,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-01,MM-1618,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-01,MM-1618,Paid Social,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,6.59,12.0
+2026-10-01,MM-1625,Direct,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-10-01,MM-1625,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-01,MM-1615,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-01,MM-1622,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-01,MM-1626,Paid Social,BOT-001,Trail water bottle,Drinkware,2,0,34.95,6.99,13.5
+2026-10-01,MM-1616,Email,APP-001,Everyday crewneck,Apparel,3,0,54.95,16.48,22.0
+2026-10-02,MM-1629,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-02,MM-1629,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-02,MM-1629,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-02,MM-1636,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-10-02,MM-1634,Email,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,4.59,8.5
+2026-10-02,MM-1638,Email,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,15.99,32.0
+2026-10-02,MM-1628,Email,MUG-001,Everyday ceramic mug,Drinkware,3,0,18.95,5.68,6.5
+2026-10-02,MM-1632,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-02,MM-1641,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-02,MM-1641,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-02,MM-1641,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-02,MM-1637,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-02,MM-1640,Paid Social,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,11.99,24.0
+2026-10-02,MM-1640,Paid Social,BOT-001,Trail water bottle,Drinkware,1,1,34.95,0.0,13.5
+2026-10-02,MM-1642,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-02,MM-1642,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-02,MM-1639,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-02,MM-1635,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-02,MM-1627,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-02,MM-1627,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-02,MM-1630,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-02,MM-1631,Email,BOT-001,Trail water bottle,Drinkware,2,0,34.95,6.99,13.5
+2026-10-02,MM-1633,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-02,MM-1633,Email,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,4.99,9.0
+2026-10-02,MM-1633,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-03,MM-1658,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-03,MM-1661,Email,BOT-001,Trail water bottle,Drinkware,2,0,34.95,6.99,13.5
+2026-10-03,MM-1647,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-03,MM-1647,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-10-03,MM-1651,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-03,MM-1652,Email,APP-002,Weekend hoodie,Apparel,2,0,69.95,13.99,28.0
+2026-10-03,MM-1657,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-03,MM-1659,Direct,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-10-03,MM-1646,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-03,MM-1648,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-03,MM-1648,Email,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-10-03,MM-1660,Email,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,3.79,6.5
+2026-10-03,MM-1649,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-03,MM-1664,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-03,MM-1645,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-03,MM-1653,Email,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,6.59,12.0
+2026-10-03,MM-1653,Email,APP-002,Weekend hoodie,Apparel,3,0,69.95,20.98,28.0
+2026-10-03,MM-1655,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-03,MM-1656,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-03,MM-1656,Paid Social,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-10-03,MM-1662,Organic Search,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-10-03,MM-1643,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-03,MM-1663,Direct,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-10-03,MM-1650,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-03,MM-1654,Organic Search,APP-002,Weekend hoodie,Apparel,2,0,69.95,13.99,28.0
+2026-10-03,MM-1654,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-10-03,MM-1654,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-04,MM-1669,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-04,MM-1665,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-04,MM-1666,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-04,MM-1671,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-04,MM-1671,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-04,MM-1667,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-04,MM-1672,Paid Social,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-10-04,MM-1670,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-04,MM-1674,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-04,MM-1668,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-05,MM-1675,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-05,MM-1676,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-05,MM-1681,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-05,MM-1685,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-05,MM-1690,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-10-05,MM-1690,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-05,MM-1690,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-10-05,MM-1677,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-05,MM-1677,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-05,MM-1687,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-05,MM-1691,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-05,MM-1691,Organic Search,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,0.0,12.0
+2026-10-05,MM-1683,Direct,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-05,MM-1683,Direct,GFT-001,Morning ritual gift set,Gifts,1,1,59.95,0.0,24.0
+2026-10-05,MM-1683,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-05,MM-1692,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-05,MM-1686,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,3.79,6.5
+2026-10-05,MM-1679,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-05,MM-1679,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-05,MM-1680,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-10-05,MM-1684,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-05,MM-1689,Organic Search,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-05,MM-1678,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-05,MM-1678,Direct,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-10-05,MM-1682,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-05,MM-1682,Email,TOTE-001,Market canvas tote,Accessories,3,0,19.95,5.98,6.0
+2026-10-05,MM-1693,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-05,MM-1688,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-06,MM-1700,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-06,MM-1707,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-06,MM-1701,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-06,MM-1704,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-06,MM-1695,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-06,MM-1695,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-06,MM-1695,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-06,MM-1699,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-06,MM-1699,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-06,MM-1694,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-06,MM-1694,Paid Social,APP-002,Weekend hoodie,Apparel,3,0,69.95,20.98,28.0
+2026-10-06,MM-1694,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-06,MM-1705,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-06,MM-1696,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-06,MM-1696,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-06,MM-1696,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,3,0,18.95,0.0,6.5
+2026-10-06,MM-1697,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-06,MM-1708,Paid Social,BOT-001,Trail water bottle,Drinkware,2,0,34.95,6.99,13.5
+2026-10-06,MM-1708,Paid Social,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-06,MM-1698,Organic Search,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-10-06,MM-1698,Organic Search,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-06,MM-1706,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-06,MM-1706,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-06,MM-1702,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-06,MM-1703,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-07,MM-1714,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-07,MM-1714,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-07,MM-1710,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-07,MM-1717,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-07,MM-1713,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-07,MM-1715,Email,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,17.98,24.0
+2026-10-07,MM-1720,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-07,MM-1711,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-07,MM-1719,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-07,MM-1712,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-07,MM-1712,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,1.99,2.5
+2026-10-07,MM-1718,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-07,MM-1718,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-07,MM-1721,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-07,MM-1721,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-07,MM-1709,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-07,MM-1709,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-07,MM-1716,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-08,MM-1723,Organic Search,MUG-002,Campfire enamel mug,Drinkware,3,0,22.95,0.0,8.5
+2026-10-08,MM-1724,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-08,MM-1725,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-08,MM-1726,Direct,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,0.0,32.0
+2026-10-08,MM-1727,Paid Social,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-10-08,MM-1731,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-08,MM-1729,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-08,MM-1730,Direct,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-10-08,MM-1728,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-10-08,MM-1722,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,1,32.95,0.0,12.0
+2026-10-09,MM-1736,Paid Social,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-09,MM-1736,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-10-09,MM-1737,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-09,MM-1738,Organic Search,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-10-09,MM-1738,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-09,MM-1738,Organic Search,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-10-09,MM-1743,Organic Search,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,0.0,24.0
+2026-10-09,MM-1743,Organic Search,KEY-001,Maple keyring,Accessories,1,1,12.95,0.0,3.5
+2026-10-09,MM-1732,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-09,MM-1732,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-09,MM-1740,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-10-09,MM-1734,Paid Social,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-10-09,MM-1735,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-09,MM-1735,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-09,MM-1739,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-09,MM-1741,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-09,MM-1733,Direct,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-10-09,MM-1733,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-09,MM-1742,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-09,MM-1742,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,3,0,18.95,0.0,6.5
+2026-10-10,MM-1754,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-10,MM-1754,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-10,MM-1754,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-10,MM-1747,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-10,MM-1747,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-10,MM-1747,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-10,MM-1744,Paid Social,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-10-10,MM-1751,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-10,MM-1745,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-10,MM-1748,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-10,MM-1753,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-10,MM-1753,Organic Search,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,0.0,24.0
+2026-10-10,MM-1749,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-10,MM-1752,Direct,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-10,MM-1752,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-10,MM-1746,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-10-10,MM-1746,Paid Social,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-10-10,MM-1746,Paid Social,APP-003,Coffee club tee,Apparel,1,1,29.95,0.0,10.0
+2026-10-11,MM-1757,Organic Search,PIN-001,Coffee enamel pin,Accessories,3,1,9.95,0.0,2.5
+2026-10-11,MM-1757,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-11,MM-1771,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-11,MM-1771,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-11,MM-1756,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-10-11,MM-1766,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-11,MM-1764,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-11,MM-1764,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-11,MM-1769,Email,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,11.99,24.0
+2026-10-11,MM-1761,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-11,MM-1767,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-11,MM-1767,Paid Social,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-11,MM-1768,Organic Search,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-10-11,MM-1768,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-11,MM-1760,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-11,MM-1762,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-11,MM-1755,Organic Search,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-10-11,MM-1763,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-11,MM-1765,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-11,MM-1758,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-11,MM-1758,Paid Social,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-10-11,MM-1770,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-11,MM-1770,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-11,MM-1770,Paid Social,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,0.0,12.0
+2026-10-11,MM-1759,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-11,MM-1772,Paid Social,APP-003,Coffee club tee,Apparel,3,0,29.95,8.98,10.0
+2026-10-12,MM-1773,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-12,MM-1773,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-12,MM-1792,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-12,MM-1793,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-12,MM-1779,Organic Search,KEY-001,Maple keyring,Accessories,3,0,12.95,3.88,3.5
+2026-10-12,MM-1778,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-12,MM-1780,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-12,MM-1784,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-12,MM-1784,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-12,MM-1785,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-12,MM-1783,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-12,MM-1783,Direct,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-10-12,MM-1787,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-12,MM-1775,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-12,MM-1791,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,1,24.95,0.0,9.0
+2026-10-12,MM-1791,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-12,MM-1791,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,1,32.95,0.0,12.0
+2026-10-12,MM-1774,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-12,MM-1781,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-12,MM-1781,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-12,MM-1781,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-12,MM-1789,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-12,MM-1789,Email,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,17.98,24.0
+2026-10-12,MM-1776,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-10-12,MM-1777,Direct,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-10-12,MM-1777,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-12,MM-1786,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-12,MM-1790,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-12,MM-1790,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-13,MM-1799,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-13,MM-1799,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-13,MM-1811,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-13,MM-1811,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-13,MM-1811,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-13,MM-1810,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,1,22.95,0.0,8.5
+2026-10-13,MM-1810,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-13,MM-1814,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,1,79.95,0.0,32.0
+2026-10-13,MM-1804,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-13,MM-1806,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-13,MM-1809,Organic Search,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-10-13,MM-1813,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-13,MM-1813,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-13,MM-1815,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-13,MM-1795,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-13,MM-1797,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-13,MM-1816,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-13,MM-1802,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-13,MM-1802,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-13,MM-1805,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-13,MM-1794,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-13,MM-1794,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-13,MM-1801,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-13,MM-1801,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-13,MM-1808,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-13,MM-1808,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-13,MM-1798,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-13,MM-1796,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-13,MM-1796,Email,BOT-001,Trail water bottle,Drinkware,3,0,34.95,10.48,13.5
+2026-10-13,MM-1803,Paid Social,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-10-13,MM-1803,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-13,MM-1812,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-13,MM-1800,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-13,MM-1807,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-14,MM-1830,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-10-14,MM-1817,Paid Social,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-10-14,MM-1817,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-14,MM-1831,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-14,MM-1831,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-14,MM-1829,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-14,MM-1834,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-14,MM-1827,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-14,MM-1828,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,1,18.95,0.0,6.5
+2026-10-14,MM-1818,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-14,MM-1822,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-14,MM-1819,Paid Social,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-10-14,MM-1819,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-14,MM-1819,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-14,MM-1820,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-14,MM-1820,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-14,MM-1824,Organic Search,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-14,MM-1824,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-10-14,MM-1821,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-14,MM-1823,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-14,MM-1825,Direct,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-14,MM-1825,Direct,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-10-14,MM-1825,Direct,BOT-001,Trail water bottle,Drinkware,3,1,34.95,0.0,13.5
+2026-10-14,MM-1826,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-14,MM-1826,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-10-14,MM-1832,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-14,MM-1833,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-14,MM-1833,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-14,MM-1833,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-15,MM-1841,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-15,MM-1843,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-15,MM-1839,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-15,MM-1842,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-15,MM-1842,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-15,MM-1842,Organic Search,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-15,MM-1848,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-15,MM-1848,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-15,MM-1840,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-15,MM-1845,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-15,MM-1845,Paid Social,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-10-15,MM-1835,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-15,MM-1836,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-15,MM-1836,Email,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,1.99,2.5
+2026-10-15,MM-1847,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-15,MM-1850,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-15,MM-1850,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-15,MM-1853,Direct,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-10-15,MM-1853,Direct,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-10-15,MM-1853,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-15,MM-1846,Organic Search,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-10-15,MM-1846,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-15,MM-1849,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-15,MM-1849,Email,TOTE-001,Market canvas tote,Accessories,3,0,19.95,5.98,6.0
+2026-10-15,MM-1844,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-15,MM-1837,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-15,MM-1838,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-15,MM-1852,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-15,MM-1852,Organic Search,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-16,MM-1858,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-16,MM-1858,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-16,MM-1873,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-16,MM-1873,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-16,MM-1862,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-16,MM-1865,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-16,MM-1856,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-16,MM-1855,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-16,MM-1855,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-16,MM-1863,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-16,MM-1863,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-16,MM-1863,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-16,MM-1870,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-16,MM-1857,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-16,MM-1857,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-16,MM-1866,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-16,MM-1871,Direct,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,6.59,12.0
+2026-10-16,MM-1874,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-16,MM-1854,Organic Search,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,0.0,24.0
+2026-10-16,MM-1854,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-16,MM-1861,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-16,MM-1861,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-16,MM-1864,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-16,MM-1864,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-16,MM-1864,Paid Social,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-10-16,MM-1860,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-16,MM-1872,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-16,MM-1872,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-16,MM-1859,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-16,MM-1859,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-16,MM-1867,Organic Search,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,0.0,32.0
+2026-10-16,MM-1868,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-16,MM-1868,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-16,MM-1869,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-17,MM-1876,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-17,MM-1876,Email,APP-002,Weekend hoodie,Apparel,2,0,69.95,13.99,28.0
+2026-10-17,MM-1887,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-17,MM-1890,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-17,MM-1890,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-17,MM-1880,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-17,MM-1884,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-17,MM-1885,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-17,MM-1886,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-17,MM-1897,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-10-17,MM-1879,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-17,MM-1879,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-17,MM-1879,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-17,MM-1888,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-17,MM-1882,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-17,MM-1893,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-17,MM-1895,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-17,MM-1895,Organic Search,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-10-17,MM-1881,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-17,MM-1894,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,15.99,32.0
+2026-10-17,MM-1894,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-10-17,MM-1883,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-17,MM-1883,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-17,MM-1891,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-17,MM-1889,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-17,MM-1878,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-17,MM-1878,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-17,MM-1892,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-17,MM-1875,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-17,MM-1877,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-18,MM-1898,Direct,KEY-001,Maple keyring,Accessories,3,0,12.95,3.88,3.5
+2026-10-18,MM-1899,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-18,MM-1899,Email,BOT-001,Trail water bottle,Drinkware,3,0,34.95,10.48,13.5
+2026-10-18,MM-1902,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-10-18,MM-1916,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-18,MM-1915,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-18,MM-1904,Organic Search,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-18,MM-1904,Organic Search,TUM-001,Maple travel tumbler,Drinkware,3,0,32.95,0.0,12.0
+2026-10-18,MM-1908,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-18,MM-1908,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-18,MM-1908,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-18,MM-1905,Email,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-10-18,MM-1905,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-18,MM-1909,Organic Search,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-10-18,MM-1909,Organic Search,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,0.0,24.0
+2026-10-18,MM-1911,Email,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,15.99,32.0
+2026-10-18,MM-1913,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-18,MM-1914,Paid Social,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-10-18,MM-1914,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-18,MM-1917,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-18,MM-1901,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-18,MM-1901,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-18,MM-1906,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-18,MM-1906,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-18,MM-1910,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-18,MM-1900,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-18,MM-1907,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-18,MM-1918,Organic Search,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-18,MM-1912,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-18,MM-1903,Direct,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-10-19,MM-1937,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-19,MM-1930,Organic Search,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-10-19,MM-1940,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-19,MM-1920,Organic Search,KEY-001,Maple keyring,Accessories,2,0,12.95,0.0,3.5
+2026-10-19,MM-1922,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-19,MM-1935,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-19,MM-1935,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-19,MM-1935,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-19,MM-1936,Paid Social,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-10-19,MM-1927,Email,MUG-002,Campfire enamel mug,Drinkware,3,0,22.95,6.88,8.5
+2026-10-19,MM-1923,Paid Social,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-19,MM-1926,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-19,MM-1926,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-19,MM-1941,Organic Search,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-10-19,MM-1929,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-19,MM-1929,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-19,MM-1929,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-19,MM-1919,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-19,MM-1928,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-19,MM-1931,Organic Search,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-10-19,MM-1931,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-19,MM-1938,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-19,MM-1921,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-19,MM-1921,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-10-19,MM-1925,Organic Search,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-10-19,MM-1939,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-19,MM-1939,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-19,MM-1939,Direct,APP-003,Coffee club tee,Apparel,3,0,29.95,0.0,10.0
+2026-10-19,MM-1933,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-10-19,MM-1933,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-19,MM-1933,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-19,MM-1934,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-19,MM-1934,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-19,MM-1924,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-19,MM-1924,Email,APP-002,Weekend hoodie,Apparel,2,0,69.95,13.99,28.0
+2026-10-19,MM-1932,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-19,MM-1932,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-20,MM-1961,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-20,MM-1947,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-20,MM-1945,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-20,MM-1953,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-20,MM-1963,Email,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-20,MM-1952,Email,BOT-001,Trail water bottle,Drinkware,3,0,34.95,10.48,13.5
+2026-10-20,MM-1952,Email,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-10-20,MM-1955,Organic Search,TOTE-001,Market canvas tote,Accessories,3,0,19.95,0.0,6.0
+2026-10-20,MM-1960,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-20,MM-1944,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-20,MM-1962,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-20,MM-1954,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-20,MM-1943,Paid Social,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-20,MM-1943,Paid Social,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-10-20,MM-1948,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-20,MM-1948,Email,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-20,MM-1958,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-20,MM-1958,Organic Search,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-10-20,MM-1964,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-20,MM-1942,Email,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,17.98,24.0
+2026-10-20,MM-1951,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-20,MM-1951,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-20,MM-1951,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-20,MM-1949,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-20,MM-1949,Direct,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-10-20,MM-1949,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-20,MM-1950,Email,TOTE-001,Market canvas tote,Accessories,1,0,19.95,1.99,6.0
+2026-10-20,MM-1950,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-20,MM-1957,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-20,MM-1959,Direct,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-20,MM-1959,Direct,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-20,MM-1946,Paid Social,HAT-001,Classic canvas cap,Accessories,3,0,24.95,0.0,8.5
+2026-10-20,MM-1946,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-20,MM-1956,Paid Social,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,0.0,24.0
+2026-10-21,MM-1984,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-21,MM-1969,Organic Search,GFT-002,Cozy weekend gift box,Gifts,3,0,79.95,0.0,32.0
+2026-10-21,MM-1990,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-21,MM-1975,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-21,MM-1982,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-21,MM-1987,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-10-21,MM-1965,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-21,MM-1965,Email,HAT-001,Classic canvas cap,Accessories,2,0,24.95,4.99,8.5
+2026-10-21,MM-1972,Email,HAT-001,Classic canvas cap,Accessories,3,0,24.95,7.48,8.5
+2026-10-21,MM-1977,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-21,MM-1977,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-21,MM-1978,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-21,MM-1986,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-21,MM-1989,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-21,MM-1966,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-21,MM-1966,Email,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-21,MM-1970,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-21,MM-1971,Paid Social,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-10-21,MM-1979,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-21,MM-1985,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-21,MM-1985,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-21,MM-1967,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-21,MM-1980,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-21,MM-1974,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-21,MM-1976,Organic Search,APP-002,Weekend hoodie,Apparel,3,0,69.95,0.0,28.0
+2026-10-21,MM-1976,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-21,MM-1973,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-21,MM-1973,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-21,MM-1983,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-21,MM-1968,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-21,MM-1981,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-21,MM-1988,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-21,MM-1991,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-10-22,MM-1992,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-22,MM-1992,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-22,MM-1992,Email,APP-003,Coffee club tee,Apparel,2,0,29.95,5.99,10.0
+2026-10-22,MM-1996,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-22,MM-2004,Organic Search,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-10-22,MM-2004,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-22,MM-2004,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-22,MM-1997,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-22,MM-1997,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-22,MM-2000,Email,BOT-001,Trail water bottle,Drinkware,3,0,34.95,10.48,13.5
+2026-10-22,MM-1993,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-22,MM-2013,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,2.29,8.5
+2026-10-22,MM-1994,Paid Social,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-22,MM-2012,Direct,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-22,MM-2012,Direct,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-22,MM-2014,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-22,MM-2014,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-22,MM-1998,Organic Search,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-22,MM-2009,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-22,MM-1995,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-22,MM-1999,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-22,MM-2003,Organic Search,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,0.0,9.0
+2026-10-22,MM-2002,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-22,MM-2005,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-22,MM-2005,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-22,MM-2006,Organic Search,TOTE-001,Market canvas tote,Accessories,2,0,19.95,0.0,6.0
+2026-10-22,MM-2007,Organic Search,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,0.0,12.0
+2026-10-22,MM-2010,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-22,MM-2010,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-22,MM-2011,Paid Social,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-22,MM-2001,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-22,MM-2008,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-22,MM-2008,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-23,MM-2016,Paid Social,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-23,MM-2028,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-23,MM-2031,Paid Social,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-23,MM-2031,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-23,MM-2025,Email,TOTE-001,Market canvas tote,Accessories,2,0,19.95,3.99,6.0
+2026-10-23,MM-2025,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-23,MM-2024,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-23,MM-2032,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-23,MM-2032,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-23,MM-2032,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-23,MM-2023,Organic Search,MUG-001,Everyday ceramic mug,Drinkware,2,0,18.95,0.0,6.5
+2026-10-23,MM-2018,Email,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,4.59,8.5
+2026-10-23,MM-2022,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-23,MM-2015,Direct,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-23,MM-2015,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-23,MM-2017,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-23,MM-2020,Organic Search,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-23,MM-2026,Direct,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-23,MM-2026,Direct,BOT-001,Trail water bottle,Drinkware,2,0,34.95,0.0,13.5
+2026-10-23,MM-2027,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-23,MM-2027,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-23,MM-2030,Paid Social,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-10-24,MM-2045,Paid Social,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-24,MM-2045,Paid Social,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-24,MM-2045,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-24,MM-2035,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,0.0,13.5
+2026-10-24,MM-2035,Organic Search,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-10-24,MM-2043,Organic Search,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-10-24,MM-2044,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-24,MM-2034,Email,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,2.49,9.0
+2026-10-24,MM-2038,Organic Search,HAT-001,Classic canvas cap,Accessories,2,0,24.95,0.0,8.5
+2026-10-24,MM-2039,Organic Search,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,0.0,24.0
+2026-10-24,MM-2047,Email,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,7.99,32.0
+2026-10-24,MM-2046,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-24,MM-2033,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-24,MM-2037,Email,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-24,MM-2040,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-24,MM-2040,Organic Search,APP-002,Weekend hoodie,Apparel,2,0,69.95,0.0,28.0
+2026-10-24,MM-2040,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-24,MM-2049,Direct,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-24,MM-2048,Email,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,7.48,9.0
+2026-10-24,MM-2042,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-24,MM-2042,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-24,MM-2042,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-24,MM-2036,Email,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,1.89,6.5
+2026-10-24,MM-2036,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-24,MM-2041,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-24,MM-2041,Direct,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-25,MM-2055,Direct,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-25,MM-2055,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-25,MM-2062,Organic Search,PIN-001,Coffee enamel pin,Accessories,3,0,9.95,0.0,2.5
+2026-10-25,MM-2062,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-25,MM-2062,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-25,MM-2052,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-25,MM-2052,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-25,MM-2053,Organic Search,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-25,MM-2054,Organic Search,APP-002,Weekend hoodie,Apparel,1,0,69.95,0.0,28.0
+2026-10-25,MM-2054,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-25,MM-2064,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-25,MM-2050,Email,GFT-001,Morning ritual gift set,Gifts,2,0,59.95,11.99,24.0
+2026-10-25,MM-2058,Email,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,5.99,24.0
+2026-10-25,MM-2067,Organic Search,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-25,MM-2067,Organic Search,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-25,MM-2051,Paid Social,GFT-002,Cozy weekend gift box,Gifts,1,0,79.95,0.0,32.0
+2026-10-25,MM-2051,Paid Social,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-25,MM-2060,Paid Social,PIN-001,Coffee enamel pin,Accessories,2,0,9.95,0.0,2.5
+2026-10-25,MM-2060,Paid Social,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-25,MM-2063,Email,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.99,2.5
+2026-10-25,MM-2059,Email,GFT-001,Morning ritual gift set,Gifts,3,0,59.95,17.98,24.0
+2026-10-25,MM-2059,Email,KEY-001,Maple keyring,Accessories,2,0,12.95,2.59,3.5
+2026-10-25,MM-2061,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-25,MM-2061,Paid Social,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5
+2026-10-25,MM-2057,Paid Social,MUG-002,Campfire enamel mug,Drinkware,2,0,22.95,0.0,8.5
+2026-10-25,MM-2066,Direct,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-25,MM-2056,Organic Search,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-25,MM-2065,Paid Social,TUM-002,Cold brew glass cup,Drinkware,1,0,24.95,0.0,9.0
+2026-10-25,MM-2065,Paid Social,PIN-001,Coffee enamel pin,Accessories,1,0,9.95,0.0,2.5
+2026-10-26,MM-2076,Organic Search,GFT-002,Cozy weekend gift box,Gifts,2,0,79.95,0.0,32.0
+2026-10-26,MM-2076,Organic Search,APP-003,Coffee club tee,Apparel,2,0,29.95,0.0,10.0
+2026-10-26,MM-2071,Email,HAT-001,Classic canvas cap,Accessories,1,0,24.95,2.49,8.5
+2026-10-26,MM-2078,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-26,MM-2078,Organic Search,KEY-001,Maple keyring,Accessories,1,0,12.95,1.29,3.5
+2026-10-26,MM-2078,Organic Search,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,0.0,12.0
+2026-10-26,MM-2080,Organic Search,TUM-001,Maple travel tumbler,Drinkware,2,0,32.95,0.0,12.0
+2026-10-26,MM-2081,Organic Search,BOT-001,Trail water bottle,Drinkware,1,0,34.95,3.49,13.5
+2026-10-26,MM-2077,Organic Search,APP-001,Everyday crewneck,Apparel,1,0,54.95,0.0,22.0
+2026-10-26,MM-2083,Paid Social,MUG-001,Everyday ceramic mug,Drinkware,1,0,18.95,0.0,6.5
+2026-10-26,MM-2082,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,2.99,10.0
+2026-10-26,MM-2084,Paid Social,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,4.99,9.0
+2026-10-26,MM-2084,Paid Social,APP-001,Everyday crewneck,Apparel,2,0,54.95,0.0,22.0
+2026-10-26,MM-2068,Direct,TOTE-001,Market canvas tote,Accessories,1,0,19.95,0.0,6.0
+2026-10-26,MM-2072,Email,APP-002,Weekend hoodie,Apparel,1,0,69.95,6.99,28.0
+2026-10-26,MM-2072,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-26,MM-2085,Organic Search,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-26,MM-2085,Organic Search,MUG-002,Campfire enamel mug,Drinkware,1,0,22.95,0.0,8.5
+2026-10-26,MM-2085,Organic Search,GFT-001,Morning ritual gift set,Gifts,1,0,59.95,0.0,24.0
+2026-10-26,MM-2075,Email,MUG-001,Everyday ceramic mug,Drinkware,3,0,18.95,5.68,6.5
+2026-10-26,MM-2069,Direct,KEY-001,Maple keyring,Accessories,1,0,12.95,0.0,3.5
+2026-10-26,MM-2070,Paid Social,APP-003,Coffee club tee,Apparel,1,0,29.95,0.0,10.0
+2026-10-26,MM-2070,Paid Social,KEY-001,Maple keyring,Accessories,3,0,12.95,0.0,3.5
+2026-10-26,MM-2079,Email,TUM-002,Cold brew glass cup,Drinkware,2,0,24.95,4.99,9.0
+2026-10-26,MM-2079,Email,TUM-001,Maple travel tumbler,Drinkware,1,0,32.95,3.29,12.0
+2026-10-26,MM-2086,Email,APP-001,Everyday crewneck,Apparel,1,0,54.95,5.49,22.0
+2026-10-26,MM-2073,Direct,TUM-002,Cold brew glass cup,Drinkware,3,0,24.95,0.0,9.0
+2026-10-26,MM-2074,Direct,HAT-001,Classic canvas cap,Accessories,1,0,24.95,0.0,8.5

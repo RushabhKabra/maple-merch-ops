@@ -1,0 +1,17 @@
+id,sku,filename,width,height,approved,rights,owner,sample_status,shoot_date
+AST-001,MUG-001,/assets/MUG-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-002,MUG-002,/assets/MUG-002.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-003,TUM-001,/assets/TUM-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-004,TUM-002,/assets/TUM-002.svg,600,600,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-005,BOT-001,/assets/BOT-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-006,APP-001,/assets/APP-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-007,APP-002,/assets/APP-002.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-008,APP-003,/assets/APP-003.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-009,HAT-001,/assets/HAT-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-010,TOTE-001,/assets/TOTE-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-011,PIN-001,/assets/PIN-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-012,KEY-001,/assets/KEY-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-013,GFT-001,/assets/GFT-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-014,GFT-002,/assets/GFT-002.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-015,HOL-001,/assets/HOL-001.svg,1200,1200,1,Original demo illustration,Creative & Storytelling,Received,2026-10-15
+AST-016,HOL-002,/assets/HOL-002.svg,1200,1200,0,pending,Creative & Storytelling,In transit,2026-10-28

@@ -1,0 +1,29 @@
+MAPLE MERCH OPS
+My independent retail e-commerce operations portfolio project
+By Rushabh Kabra
+
+WINDOWS
+1. Extract the entire ZIP.
+2. Install Python 3.10+ if needed: https://www.python.org/downloads/
+   During installation, select Add Python to PATH.
+3. Double-click start-windows.bat. Keep the terminal open.
+4. Open http://127.0.0.1:8765 in your browser.
+5. Open http://127.0.0.1:8765/shop for the demonstration shop.
+
+Do not open the HTML file directly. The Python server connects the pages to
+the database and reports. No pip install, payment or API key is needed.
+
+FIRST DEMO
+Read docs/DEMO_WALKTHROUGH.md for exact actions and expected results.
+
+EXCEL
+Open reports/Maple_Merch_Reporting.xlsx.
+It includes formulas, tables and charts. Create the native PivotTable using
+docs/EXCEL_GUIDE.md or the optional Office Script. It is not already created.
+
+REAL PLATFORMS
+The core uses synthetic data. Shopify, GA4 and Klaviyo require your own test
+accounts for platform practice. Read docs/PLATFORM_GUIDE.md.
+
+Read README.md for the project overview and docs/VERIFICATION.md for what
+was tested and what remains to verify in a real browser, Excel and accounts.

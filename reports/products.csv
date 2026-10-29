@@ -1,0 +1,17 @@
+sku,title,category,collection,status,price_cents,inventory,units,returns,net_cents,gross_profit_cents
+GFT-002,Cozy weekend gift box,Gifts,Gift Edit,active,7995,10,82,1,631611,372411
+APP-002,Weekend hoodie,Apparel,Everyday Collection,active,6995,32,73,0,489659,285259
+GFT-001,Morning ritual gift set,Gifts,Gift Edit,active,5995,21,78,1,441840,257040
+APP-001,Everyday crewneck,Apparel,Everyday Collection,active,5495,92,65,2,335204,196604
+BOT-001,Trail water bottle,Drinkware,Everyday Collection,active,3495,48,79,2,254097,150147
+TUM-002,Cold brew glass cup,Drinkware,Everyday Collection,active,2495,71,105,1,253500,159900
+TUM-001,Maple travel tumbler,Drinkware,Everyday Collection,active,3595,6,73,2,226375,141175
+HAT-001,Classic canvas cap,Accessories,Everyday Collection,active,2495,62,85,1,201603,130203
+APP-003,Coffee club tee,Apparel,Everyday Collection,active,2995,4,68,1,193185,126185
+TOTE-001,Market canvas tote,Accessories,Everyday Collection,active,1995,120,78,0,148837,102037
+MUG-002,Campfire enamel mug,Drinkware,Everyday Collection,active,2295,0,66,2,142068,87668
+MUG-001,Everyday ceramic mug,Drinkware,Everyday Collection,active,1895,82,78,1,141186,91136
+KEY-001,Maple keyring,Accessories,Everyday Collection,active,1295,88,84,1,102703,73653
+PIN-001,Coffee enamel pin,Accessories,Everyday Collection,active,995,130,66,1,62792,46542
+HOL-001,Winter ceramic mug,Drinkware,Winter Collection,draft,2495,90,0,0,0,0
+HOL-002,Winter knit beanie,Apparel,Winter Collection,draft,2795,65,0,0,0,0

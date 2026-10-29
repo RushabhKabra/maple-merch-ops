@@ -1,0 +1,8 @@
+sku,title,kind,message,owner,severity
+TUM-001,Maple travel tumbler,price,Listing price differs from the approved merchandising price.,Category,critical
+TUM-002,Cold brew glass cup,resolution,Replace the primary image with an asset at least 800 × 800.,Creative & Storytelling,warning
+APP-003,Coffee club tee,description,Add a useful description of at least 40 characters.,E-Commerce,warning
+HAT-001,Classic canvas cap,alt,Add descriptive image alt text.,Creative & Storytelling,warning
+GFT-002,Cozy weekend gift box,compare_at,Compare-at price must be above the selling price.,Category,critical
+HOL-002,Winter knit beanie,approval,Creative approval or usage rights are pending.,Creative & Storytelling,critical
+HOL-002,Winter knit beanie,sample,Confirm that the product sample was received.,Planning & Inventory,warning

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/*.sqlite3*
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+test-results/
+live-data/
+outputs/
+web/assets/upload-*.svg
+.DS_Store

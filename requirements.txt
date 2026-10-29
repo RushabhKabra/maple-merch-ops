@@ -1,0 +1,2 @@
+# Core application uses Python 3.10+ standard library only.
+# No pip installation is required.
